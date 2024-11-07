@@ -2,3 +2,4 @@ Juan Diego Cardenas Acevedo
 19 años
 En fundamentos de la programacion no sentí que estuviera aprendiendo a programar de manera seria, espero lograr conocimientos fuertes
 en programacion durante este curso.
+Hay que tener cuidado al editar y subir archivos desde distintas ubicaciones debido a que se pueden generar conflictos como el de merge.txt
